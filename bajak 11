@@ -66,9 +66,6 @@ https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/tntsport9mac.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1024px-TNT_Sports_%282023%29.svg.png" group-title="TEST",TNT SPORTS 10 TEST
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/tntsport10mac.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3jPvPgW8g4at6wdouF0Bxd07d4cAm-BssQ&usqp=CAU" group-title="CHANNEL | SPORTS",MOLA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
